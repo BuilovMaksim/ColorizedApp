@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
     
     //MARC: - IB Outlets
     @IBOutlet var mainView: UIView!
